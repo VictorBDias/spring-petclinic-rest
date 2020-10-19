@@ -173,4 +173,6 @@ public class Owner extends Person {
             .append("is_active", this.is_active)
             .toString();
     }
+
+
 }

@@ -88,6 +88,7 @@ public class VisitRestControllerTests {
     	owner.setAddress("2693 Commerce St.");
     	owner.setCity("McFarland");
     	owner.setTelephone("6085558763");
+    	owner.setIs_active("Yes");
 
     	PetType petType = new PetType();
     	petType.setId(2);
